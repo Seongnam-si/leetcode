@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Seongnam-si/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seongnam-si/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Seongnam-si/leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
