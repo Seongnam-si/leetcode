@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Seongnam-si/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/Seongnam-si/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Seongnam-si/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
 ## String
@@ -57,9 +59,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Seongnam-si/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Seongnam-si/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
 ## Depth-First Search
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Seongnam-si/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Seongnam-si/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Seongnam-si/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Seongnam-si/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Seongnam-si/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
