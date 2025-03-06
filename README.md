@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Seongnam-si/leetcode/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/Seongnam-si/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Seongnam-si/leetcode/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Seongnam-si/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Seongnam-si/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
