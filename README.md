@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Seongnam-si/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Seongnam-si/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Seongnam-si/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
