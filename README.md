@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Seongnam-si/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Seongnam-si/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Seongnam-si/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/Seongnam-si/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
