@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Seongnam-si/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Seongnam-si/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Seongnam-si/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Seongnam-si/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Seongnam-si/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
