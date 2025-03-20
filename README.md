@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Seongnam-si/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2551-apply-operations-to-an-array](https://github.com/Seongnam-si/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Seongnam-si/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Seongnam-si/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Seongnam-si/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Seongnam-si/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Seongnam-si/leetcode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
+| [2551-apply-operations-to-an-array](https://github.com/Seongnam-si/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
