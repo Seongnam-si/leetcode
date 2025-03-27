@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Seongnam-si/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Seongnam-si/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Seongnam-si/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3429-special-array-i](https://github.com/Seongnam-si/leetcode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Seongnam-si/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Seongnam-si/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Seongnam-si/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Binary Search
 |  |
 | ------- |
