@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Seongnam-si/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seongnam-si/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Seongnam-si/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Seongnam-si/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Seongnam-si/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seongnam-si/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Seongnam-si/leetcode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Seongnam-si/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Seongnam-si/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Seongnam-si/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Seongnam-si/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Seongnam-si/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Seongnam-si/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Seongnam-si/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Seongnam-si/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Seongnam-si/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Seongnam-si/leetcode/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Seongnam-si/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
