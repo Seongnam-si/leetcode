@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Seongnam-si/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Seongnam-si/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Seongnam-si/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/Seongnam-si/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/Seongnam-si/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Seongnam-si/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Seongnam-si/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Seongnam-si/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Seongnam-si/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/Seongnam-si/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Seongnam-si/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Seongnam-si/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Seongnam-si/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Seongnam-si/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Seongnam-si/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Seongnam-si/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Seongnam-si/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Seongnam-si/leetcode/tree/master/0338-counting-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
