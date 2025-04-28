@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Seongnam-si/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0733-flood-fill](https://github.com/Seongnam-si/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Seongnam-si/leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Seongnam-si/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Seongnam-si/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Seongnam-si/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Seongnam-si/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Seongnam-si/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
+| [0797-rabbits-in-forest](https://github.com/Seongnam-si/leetcode/tree/master/0797-rabbits-in-forest) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Seongnam-si/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Seongnam-si/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Seongnam-si/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Seongnam-si/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Seongnam-si/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Seongnam-si/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Seongnam-si/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/Seongnam-si/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2998-count-symmetric-integers](https://github.com/Seongnam-si/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Memoization
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Seongnam-si/leetcode/tree/master/0409-longest-palindrome) |
+| [0797-rabbits-in-forest](https://github.com/Seongnam-si/leetcode/tree/master/0797-rabbits-in-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
